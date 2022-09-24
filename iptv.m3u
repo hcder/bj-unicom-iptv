@@ -39,7 +39,7 @@ rtp://239.3.1.64:8124
 #EXTINF:-1,CCTV-13高清
 rtp://239.3.1.124:8128
 
-#EXTINF:-1,CCTV-14高清
+#EXTINF:-1,CCTV-少儿高清
 rtp://239.3.1.65:8132
 
 #EXTINF:-1,CCTV-15高清
@@ -66,7 +66,7 @@ rtp://239.3.1.241:8000
 #EXTINF:-1,BRTV文艺高清
 rtp://239.3.1.242:8000
 
-#EXTINF:-1,BRTV科教高清
+#EXTINF:-1,BRTV纪实科教高清
 rtp://239.3.1.115:8000
 
 #EXTINF:-1,BRTV影视高清
@@ -75,7 +75,7 @@ rtp://239.3.1.158:8000
 #EXTINF:-1,BRTV财经高清
 rtp://239.3.1.116:8000
 
-#EXTINF:-1,BRTV冬奥纪实高清
+#EXTINF:-1,BRTV体育休闲高清
 rtp://239.3.1.243:8000
 
 #EXTINF:-1,BRTV生活高清
@@ -84,7 +84,7 @@ rtp://239.3.1.117:8000
 #EXTINF:-1,BRTV青年高清
 rtp://239.3.1.118:8000
 
-#EXTINF:-1,BRTV新闻高清 
+#EXTINF:-1,BRTV新闻高清
 rtp://239.3.1.159:8000
 
 #EXTINF:-1,大健康
@@ -261,7 +261,7 @@ rtp://239.3.1.225:8000
 #EXTINF:-1,BRTV文艺
 rtp://239.3.1.226:8000
 
-#EXTINF:-1,BRTV科教
+#EXTINF:-1,BRTV纪实科教
 rtp://239.3.1.227:8000
 
 #EXTINF:-1,BRTV影视
@@ -270,7 +270,7 @@ rtp://239.3.1.228:8000
 #EXTINF:-1,BRTV财经
 rtp://239.3.1.229:8000
 
-#EXTINF:-1,BRTV冬奥纪实
+#EXTINF:-1,BRTV体育休闲
 rtp://239.3.1.230:8000
 
 #EXTINF:-1,BRTV生活
@@ -429,26 +429,23 @@ rtp://239.3.1.195:9024
 #EXTINF:-1,魅力时尚
 rtp://239.3.1.196:9012
 
-#EXTINF:-1,IPTV6＋
+#EXTINF:-1,IPTV6+
 rtp://239.3.1.197:9016
 
-#EXTINF:-1,IPTV3＋
+#EXTINF:-1,IPTV3+
 rtp://239.3.1.198:9004
 
 #EXTINF:-1,少儿动画
 rtp://239.3.1.199:9000
 
-#EXTINF:-1,IPTV5＋
+#EXTINF:-1,IPTV5+
 rtp://239.3.1.200:9008
 
-#EXTINF:-1,IPTV8＋
+#EXTINF:-1,IPTV8+
 rtp://239.3.1.201:8072
 
 #EXTINF:-1,房山电视台
 rtp://239.3.1.96:8001
-
-#EXTINF:-1,北京朝阳
-rtp://239.3.1.163:8001
 
 #EXTINF:-1,快乐垂钓
 rtp://239.3.1.164:8001
@@ -579,7 +576,7 @@ rtp://239.3.1.93:4120
 #EXTINF:-1,星影
 rtp://239.3.1.94:4120
 
-#EXTINF:-1,IPTV5＋高清
+#EXTINF:-1,IPTV5+高清
 rtp://239.3.1.237:4120
 
 #EXTINF:-1,体育赛事高清
@@ -588,10 +585,10 @@ rtp://239.3.1.157:8176
 #EXTINF:-1,爱上4K
 rtp://239.3.1.236:2000
 
-#EXTINF:-1,BRTV冬奥纪实4K
+#EXTINF:-1,BRTV体育休闲4K HDR
 rtp://239.3.1.120:8000
 
-#EXTINF:-1,BRTV冬奥纪实4K
+#EXTINF:-1,BRTV体育休闲4K SDR
 rtp://239.3.1.121:8000
 
 #EXTINF:-1,CCTV-16 4K
@@ -600,7 +597,7 @@ rtp://239.3.1.183:8001
 #EXTINF:-1,VBR测试-2
 rtp://239.3.1.140:8001
 
-#EXTINF:-1,轮播频道5
+#EXTINF:-1,轮播-5
 rtp://239.3.1.253:8001
 
 #EXTINF:-1,空中课堂-初三
