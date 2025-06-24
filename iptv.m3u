@@ -81,7 +81,7 @@ udp://239.3.1.243:8000
 #EXTINF:-1 tvg-chno="27", BRTV生活高清
 udp://239.3.1.117:8000
 
-#EXTINF:-1 tvg-chno="29", BRTV新闻高清 
+#EXTINF:-1 tvg-chno="29", BRTV新闻高清
 udp://239.3.1.159:8000
 
 #EXTINF:-1 tvg-chno="30", 家有购物精选
@@ -189,9 +189,6 @@ udp://239.3.1.127:8001
 #EXTINF:-1 tvg-chno="69", 睛彩广场舞
 udp://239.3.1.128:8001
 
-#EXTINF:-1 tvg-chno="70", 魅力足球
-udp://239.3.1.201:8001
-
 #EXTINF:-1 tvg-chno="72", 广东卫视高清
 udp://239.3.1.142:8048
 
@@ -224,27 +221,6 @@ udp://239.3.1.244:2000
 
 #EXTINF:-1 tvg-chno="86", CCTV4K超高清HDR
 udp://239.3.1.245:2000
-
-#EXTINF:-1 tvg-chno="90", 动漫秀场
-udp://239.3.1.202:8001
-
-#EXTINF:-1 tvg-chno="91", 都市剧场
-udp://239.3.1.203:8001
-
-#EXTINF:-1 tvg-chno="92", 法治天地
-udp://239.3.1.204:8001
-
-#EXTINF:-1 tvg-chno="93", 游戏风云
-udp://239.3.1.205:8001
-
-#EXTINF:-1 tvg-chno="94", 生活时尚
-udp://239.3.1.206:8001
-
-#EXTINF:-1 tvg-chno="95", 乐游
-udp://239.3.1.207:8001
-
-#EXTINF:-1 tvg-chno="96", 金色学堂
-udp://239.3.1.208:8001
 
 #EXTINF:-1 tvg-chno="101", CCTV-1
 udp://239.3.1.1:8000
@@ -450,9 +426,6 @@ udp://239.3.1.146:4120
 #EXTINF:-1 tvg-chno="172", CETV2
 udp://239.3.1.54:4120
 
-#EXTINF:-1 tvg-chno="173", CETV3
-udp://239.3.1.55:4120
-
 #EXTINF:-1 tvg-chno="174", CETV4
 udp://239.3.1.56:4120
 
@@ -468,19 +441,19 @@ udp://239.3.1.195:9024
 #EXTINF:-1 tvg-chno="204", 魅力时尚
 udp://239.3.1.196:9012
 
-#EXTINF:-1 tvg-chno="205", IPTV6＋
+#EXTINF:-1 tvg-chno="205", IPTV6+
 udp://239.3.1.197:9016
 
-#EXTINF:-1 tvg-chno="206", IPTV3＋
+#EXTINF:-1 tvg-chno="206", IPTV3+
 udp://239.3.1.198:9004
 
 #EXTINF:-1 tvg-chno="207", 少儿动画
 udp://239.3.1.199:9000
 
-#EXTINF:-1 tvg-chno="208", IPTV5＋
+#EXTINF:-1 tvg-chno="208", IPTV5+
 udp://239.3.1.200:9008
 
-#EXTINF:-1 tvg-chno="209", IPTV8＋
+#EXTINF:-1 tvg-chno="209", IPTV8+
 udp://239.3.1.201:8072
 
 #EXTINF:-1 tvg-chno="301", 房山电视台
@@ -494,9 +467,6 @@ udp://239.3.1.164:8001
 
 #EXTINF:-1 tvg-chno="321", 茶
 udp://239.3.1.165:8001
-
-#EXTINF:-1 tvg-chno="324", 熊猫频道
-udp://239.3.1.66:8068
 
 #EXTINF:-1 tvg-chno="341", CCTV-4欧洲高清
 udp://239.3.1.213:4220
@@ -606,11 +576,8 @@ udp://239.3.1.93:4120
 #EXTINF:-1 tvg-chno="378", 星影
 udp://239.3.1.94:4120
 
-#EXTINF:-1 tvg-chno="379", IPTV5＋高清
+#EXTINF:-1 tvg-chno="379", IPTV5+高清
 udp://239.3.1.237:4120
-
-#EXTINF:-1 tvg-chno="380", 体育赛事高清
-udp://239.3.1.157:8176
 
 #EXTINF:-1 tvg-chno="401", 爱上4K
 udp://239.3.1.236:2000
@@ -630,14 +597,8 @@ udp://239.3.1.118:8001
 #EXTINF:-1 tvg-chno="502", VBR测试-2
 udp://239.3.1.140:8001
 
-#EXTINF:-1 tvg-chno="505", 轮播频道5
+#EXTINF:-1 tvg-chno="505", 轮播-5
 udp://239.3.1.253:8001
-
-#EXTINF:-1 tvg-chno="507", 空中课堂-初三
-udp://239.3.1.176:8001
-
-#EXTINF:-1 tvg-chno="508", 空中课堂-高三
-udp://239.3.1.177:8001
 
 #EXTINF:-1 tvg-chno="515", VBR测试-1
 udp://239.3.1.139:8001
@@ -647,34 +608,4 @@ udp://239.3.1.104:8001
 
 #EXTINF:-1 tvg-chno="521", 高清测试
 udp://239.3.1.103:8001
-
-#EXTINF:-1 tvg-chno="522", 总平台测试1
-udp://239.3.1.247:2000
-
-#EXTINF:-1 tvg-chno="523", 总平台测试2
-udp://239.3.1.248:2000
-
-#EXTINF:-1 tvg-chno="530", 直播室101
-udp://239.3.1.166:8001
-
-#EXTINF:-1 tvg-chno="531", 直播室102
-udp://239.3.1.167:8001
-
-#EXTINF:-1 tvg-chno="532", 直播室103
-udp://239.3.1.168:8001
-
-#EXTINF:-1 tvg-chno="533", 直播室104
-udp://239.3.1.169:8001
-
-#EXTINF:-1 tvg-chno="534", 直播室106
-udp://239.3.1.170:8001
-
-#EXTINF:-1 tvg-chno="535", 直播室107
-udp://239.3.1.171:8001
-
-#EXTINF:-1 tvg-chno="551", 粤荟萃
-udp://239.3.1.162:8001
-
-#EXTINF:-1 tvg-chno="590", 文化北京
-udp://239.3.1.97:8001
 
