@@ -81,7 +81,7 @@ udp://239.3.1.243:8000
 #EXTINF:-1 tvg-chno="27", BRTV生活高清
 udp://239.3.1.117:8000
 
-#EXTINF:-1 tvg-chno="29", BRTV新闻高清
+#EXTINF:-1 tvg-chno="29", BRTV新闻高清 
 udp://239.3.1.159:8000
 
 #EXTINF:-1 tvg-chno="30", 家有购物精选
@@ -176,6 +176,9 @@ udp://239.3.1.190:8001
 
 #EXTINF:-1 tvg-chno="61", 时尚购物精选
 udp://239.3.1.191:8001
+
+#EXTINF:-1 tvg-chno="62", 甘肃卫视高清
+udp://239.3.1.201:8180
 
 #EXTINF:-1 tvg-chno="66", 睛彩竞技
 udp://239.3.1.125:8001
@@ -426,6 +429,9 @@ udp://239.3.1.146:4120
 #EXTINF:-1 tvg-chno="172", CETV2
 udp://239.3.1.54:4120
 
+#EXTINF:-1 tvg-chno="173", CETV3
+udp://239.3.1.55:4120
+
 #EXTINF:-1 tvg-chno="174", CETV4
 udp://239.3.1.56:4120
 
@@ -441,32 +447,32 @@ udp://239.3.1.195:9024
 #EXTINF:-1 tvg-chno="204", 魅力时尚
 udp://239.3.1.196:9012
 
-#EXTINF:-1 tvg-chno="205", IPTV6+
+#EXTINF:-1 tvg-chno="205", IPTV6＋
 udp://239.3.1.197:9016
 
-#EXTINF:-1 tvg-chno="206", IPTV3+
+#EXTINF:-1 tvg-chno="206", IPTV3＋
 udp://239.3.1.198:9004
 
 #EXTINF:-1 tvg-chno="207", 少儿动画
 udp://239.3.1.199:9000
 
-#EXTINF:-1 tvg-chno="208", IPTV5+
+#EXTINF:-1 tvg-chno="208", IPTV5＋
 udp://239.3.1.200:9008
 
-#EXTINF:-1 tvg-chno="209", IPTV8+
+#EXTINF:-1 tvg-chno="209", IPTV8＋
 udp://239.3.1.201:8072
 
 #EXTINF:-1 tvg-chno="301", 房山电视台
 udp://239.3.1.96:8001
-
-#EXTINF:-1 tvg-chno="302", 北京朝阳
-udp://239.3.1.163:8001
 
 #EXTINF:-1 tvg-chno="320", 快乐垂钓
 udp://239.3.1.164:8001
 
 #EXTINF:-1 tvg-chno="321", 茶
 udp://239.3.1.165:8001
+
+#EXTINF:-1 tvg-chno="324", 熊猫频道
+udp://239.3.1.66:8068
 
 #EXTINF:-1 tvg-chno="341", CCTV-4欧洲高清
 udp://239.3.1.213:4220
@@ -576,8 +582,11 @@ udp://239.3.1.93:4120
 #EXTINF:-1 tvg-chno="378", 星影
 udp://239.3.1.94:4120
 
-#EXTINF:-1 tvg-chno="379", IPTV5+高清
+#EXTINF:-1 tvg-chno="379", IPTV5＋高清
 udp://239.3.1.237:4120
+
+#EXTINF:-1 tvg-chno="380", 体育赛事高清
+udp://239.3.1.157:8176
 
 #EXTINF:-1 tvg-chno="401", 爱上4K
 udp://239.3.1.236:2000
@@ -591,13 +600,19 @@ udp://239.3.1.121:8000
 #EXTINF:-1 tvg-chno="405", CCTV-16 4K
 udp://239.3.1.183:8001
 
+#EXTINF:-1 tvg-chno="406", 广东卫视4K超高清
+udp://239.3.1.203:2000
+
+#EXTINF:-1 tvg-chno="408", 深圳卫视4K超高清
+udp://239.3.1.202:2000
+
 #EXTINF:-1 tvg-chno="421", BRTV北京卫视超高清HDR
 udp://239.3.1.118:8001
 
 #EXTINF:-1 tvg-chno="502", VBR测试-2
 udp://239.3.1.140:8001
 
-#EXTINF:-1 tvg-chno="505", 轮播-5
+#EXTINF:-1 tvg-chno="505", 轮播频道5
 udp://239.3.1.253:8001
 
 #EXTINF:-1 tvg-chno="515", VBR测试-1
@@ -608,4 +623,10 @@ udp://239.3.1.104:8001
 
 #EXTINF:-1 tvg-chno="521", 高清测试
 udp://239.3.1.103:8001
+
+#EXTINF:-1 tvg-chno="522", 总平台测试1
+udp://239.3.1.247:2000
+
+#EXTINF:-1 tvg-chno="523", 总平台测试2
+udp://239.3.1.248:2000
 
