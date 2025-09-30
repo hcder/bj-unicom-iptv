@@ -81,6 +81,9 @@ udp://239.3.1.243:8000
 #EXTINF:-1 tvg-chno="27", BRTV生活高清
 udp://239.3.1.117:8000
 
+#EXTINF:-1 tvg-chno="28", BRTV卡酷少儿高清
+udp://239.3.1.189:8000
+
 #EXTINF:-1 tvg-chno="29", BRTV新闻高清 
 udp://239.3.1.159:8000
 
@@ -98,9 +101,6 @@ udp://239.3.1.181:8001
 
 #EXTINF:-1 tvg-chno="34", 萌宠TV
 udp://239.3.1.102:8001
-
-#EXTINF:-1 tvg-chno="35", BRTV卡酷少儿高清
-udp://239.3.1.189:8000
 
 #EXTINF:-1 tvg-chno="36", 淘Baby
 udp://239.3.1.238:8001
@@ -180,6 +180,15 @@ udp://239.3.1.191:8001
 #EXTINF:-1 tvg-chno="62", 甘肃卫视高清
 udp://239.3.1.201:8180
 
+#EXTINF:-1 tvg-chno="63", 西藏卫视高清
+udp://239.3.1.166:8188
+
+#EXTINF:-1 tvg-chno="64", 新疆卫视高清
+udp://239.3.1.167:8192
+
+#EXTINF:-1 tvg-chno="65", 兵团卫视高清
+udp://239.3.1.168:8196
+
 #EXTINF:-1 tvg-chno="66", 睛彩竞技
 udp://239.3.1.125:8001
 
@@ -191,6 +200,9 @@ udp://239.3.1.127:8001
 
 #EXTINF:-1 tvg-chno="69", 睛彩广场舞
 udp://239.3.1.128:8001
+
+#EXTINF:-1 tvg-chno="71", 宁夏卫视高清
+udp://239.3.1.169:8212
 
 #EXTINF:-1 tvg-chno="72", 广东卫视高清
 udp://239.3.1.142:8048
@@ -225,57 +237,6 @@ udp://239.3.1.244:2000
 #EXTINF:-1 tvg-chno="86", CCTV4K超高清HDR
 udp://239.3.1.245:2000
 
-#EXTINF:-1 tvg-chno="101", CCTV-1
-udp://239.3.1.1:8000
-
-#EXTINF:-1 tvg-chno="102", CCTV-2
-udp://239.3.1.2:8004
-
-#EXTINF:-1 tvg-chno="103", CCTV-3
-udp://239.3.1.107:8001
-
-#EXTINF:-1 tvg-chno="104", CCTV-4
-udp://239.3.1.4:8216
-
-#EXTINF:-1 tvg-chno="105", CCTV-5
-udp://239.3.1.108:8001	
-
-#EXTINF:-1 tvg-chno="106", CCTV-6
-udp://239.3.1.109:8001
-
-#EXTINF:-1 tvg-chno="107", CCTV-7
-udp://239.3.1.7:8024
-
-#EXTINF:-1 tvg-chno="108", CCTV-8
-udp://239.3.1.110:8001
-
-#EXTINF:-1 tvg-chno="109", CCTV-9
-udp://239.3.1.9:8032
-
-#EXTINF:-1 tvg-chno="110", CCTV-10
-udp://239.3.1.10:8228
-
-#EXTINF:-1 tvg-chno="111", CCTV-11
-udp://239.3.1.11:8040
-
-#EXTINF:-1 tvg-chno="112", CCTV-12
-udp://239.3.1.12:8232
-
-#EXTINF:-1 tvg-chno="113", CCTV-13
-udp://239.3.1.13:8048
-
-#EXTINF:-1 tvg-chno="114", CCTV-14
-udp://239.3.1.14:8236
-
-#EXTINF:-1 tvg-chno="115", CCTV-15
-udp://239.3.1.15:8052
-
-#EXTINF:-1 tvg-chno="116", CGTN
-udp://239.3.1.16:8056
-
-#EXTINF:-1 tvg-chno="117", CCTV-17
-udp://239.3.1.150:8064
-
 #EXTINF:-1 tvg-chno="121", BRTV北京卫视
 udp://239.3.1.225:8000
 
@@ -297,80 +258,23 @@ udp://239.3.1.230:8000
 #EXTINF:-1 tvg-chno="127", BRTV生活
 udp://239.3.1.231:8000
 
+#EXTINF:-1 tvg-chno="128", BRTV卡酷少儿
+udp://239.3.1.234:8000
+
 #EXTINF:-1 tvg-chno="129", BRTV新闻
 udp://239.3.1.233:8000
-
-#EXTINF:-1 tvg-chno="130", BRTV卡酷少儿
-udp://239.3.1.234:8000
 
 #EXTINF:-1 tvg-chno="131", BTV国际频道
 udp://239.3.1.235:8000
 
-#EXTINF:-1 tvg-chno="132", 湖南卫视
-udp://239.3.1.18:8268
-
-#EXTINF:-1 tvg-chno="133", 浙江卫视
-udp://239.3.1.19:8284
-
-#EXTINF:-1 tvg-chno="134", 江苏卫视
-udp://239.3.1.20:8276
-
-#EXTINF:-1 tvg-chno="135", 安徽卫视
-udp://239.3.1.21:8272
-
-#EXTINF:-1 tvg-chno="136", 天津卫视
-udp://239.3.1.23:8144
-
-#EXTINF:-1 tvg-chno="137", 辽宁卫视
-udp://239.3.1.24:8116
-
-#EXTINF:-1 tvg-chno="138", 山东卫视
-udp://239.3.1.25:8148
-
 #EXTINF:-1 tvg-chno="139", 山东教育
 udp://239.3.1.52:4120
-
-#EXTINF:-1 tvg-chno="140", 河南卫视
-udp://239.3.1.27:8128
-
-#EXTINF:-1 tvg-chno="141", 黑龙江卫视
-udp://239.3.1.28:8196
 
 #EXTINF:-1 tvg-chno="142", 四川卫视
 udp://239.3.1.29:8288
 
-#EXTINF:-1 tvg-chno="143", 江西卫视
-udp://239.3.1.30:8280
-
-#EXTINF:-1 tvg-chno="144", 贵州卫视
-udp://239.3.1.31:8120
-
-#EXTINF:-1 tvg-chno="145", 深圳卫视
-udp://239.3.1.32:9244
-
-#EXTINF:-1 tvg-chno="146", 湖北卫视
-udp://239.3.1.33:8136
-
-#EXTINF:-1 tvg-chno="147", 东方卫视
-udp://239.3.1.34:8192
-
-#EXTINF:-1 tvg-chno="148", 重庆卫视
-udp://239.3.1.35:8296
-
-#EXTINF:-1 tvg-chno="149", 东南卫视
-udp://239.3.1.36:8112
-
-#EXTINF:-1 tvg-chno="150", 河北卫视
-udp://239.3.1.37:8292
-
-#EXTINF:-1 tvg-chno="151", 广东卫视
-udp://239.3.1.38:8132
-
 #EXTINF:-1 tvg-chno="152", 广西卫视
 udp://239.3.1.39:8300
-
-#EXTINF:-1 tvg-chno="153", 吉林卫视
-udp://239.3.1.40:8200
 
 #EXTINF:-1 tvg-chno="154", 陕西卫视
 udp://239.3.1.41:8140
@@ -387,18 +291,6 @@ udp://239.3.1.44:8184
 #EXTINF:-1 tvg-chno="158", 海南卫视
 udp://239.3.1.45:8304
 
-#EXTINF:-1 tvg-chno="159", 宁夏卫视
-udp://239.3.1.46:8124
-
-#EXTINF:-1 tvg-chno="160", 西藏卫视
-udp://239.3.1.47:8164
-
-#EXTINF:-1 tvg-chno="161", 新疆卫视
-udp://239.3.1.48:8160
-
-#EXTINF:-1 tvg-chno="162", 甘肃卫视
-udp://239.3.1.49:8188
-
 #EXTINF:-1 tvg-chno="163", 三沙卫视
 udp://239.3.1.155:4120
 
@@ -411,9 +303,6 @@ udp://239.3.1.53:9136
 #EXTINF:-1 tvg-chno="166", 厦门卫视
 udp://239.3.1.143:4120
 
-#EXTINF:-1 tvg-chno="167", 兵团卫视
-udp://239.3.1.144:4120
-
 #EXTINF:-1 tvg-chno="168", 南方卫视
 udp://239.3.1.161:8001
 
@@ -422,9 +311,6 @@ udp://239.3.1.51:9252
 
 #EXTINF:-1 tvg-chno="170", 嘉佳卡通
 udp://239.3.1.147:9268
-
-#EXTINF:-1 tvg-chno="171", CETV1
-udp://239.3.1.146:4120
 
 #EXTINF:-1 tvg-chno="172", CETV2
 udp://239.3.1.54:4120
@@ -597,17 +483,35 @@ udp://239.3.1.120:8000
 #EXTINF:-1 tvg-chno="404", BRTV体育休闲4K SDR
 udp://239.3.1.121:8000
 
-#EXTINF:-1 tvg-chno="405", CCTV-16 4K
-udp://239.3.1.183:8001
+#EXTINF:-1 tvg-chno="405", 湖南卫视4K超高清
+udp://239.3.1.112:3002
 
 #EXTINF:-1 tvg-chno="406", 广东卫视4K超高清
 udp://239.3.1.203:2000
 
+#EXTINF:-1 tvg-chno="407", 江苏卫视4K超高清
+udp://239.3.1.113:3003
+
 #EXTINF:-1 tvg-chno="408", 深圳卫视4K超高清
 udp://239.3.1.202:2000
 
+#EXTINF:-1 tvg-chno="409", 东方卫视4K超高清
+udp://239.3.1.119:3006
+
+#EXTINF:-1 tvg-chno="410", 浙江卫视4K超高清
+udp://239.3.1.114:3004
+
+#EXTINF:-1 tvg-chno="411", 山东卫视4K超高清
+udp://239.3.1.144:3005
+
+#EXTINF:-1 tvg-chno="412", 四川卫视4K超高清
+udp://239.3.1.131:3001
+
 #EXTINF:-1 tvg-chno="421", BRTV北京卫视超高清HDR
 udp://239.3.1.118:8001
+
+#EXTINF:-1 tvg-chno="498", CCTV-16 4K
+udp://239.3.1.183:8001
 
 #EXTINF:-1 tvg-chno="502", VBR测试-2
 udp://239.3.1.140:8001
