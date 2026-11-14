@@ -84,7 +84,7 @@ udp://239.3.1.117:8000
 #EXTINF:-1 tvg-chno="28" tvg-id="28", BRTV卡酷少儿高清
 udp://239.3.1.189:8000
 
-#EXTINF:-1 tvg-chno="29" tvg-id="29", BRTV新闻高清
+#EXTINF:-1 tvg-chno="29" tvg-id="29", BRTV新闻高清 
 udp://239.3.1.159:8000
 
 #EXTINF:-1 tvg-chno="31" tvg-id="31", 淘精彩
@@ -315,6 +315,9 @@ udp://239.3.1.147:9268
 #EXTINF:-1 tvg-chno="172" tvg-id="172", CETV2
 udp://239.3.1.54:4120
 
+#EXTINF:-1 tvg-chno="173" tvg-id="173", CETV3
+udp://239.3.1.55:4120
+
 #EXTINF:-1 tvg-chno="174" tvg-id="174", CETV4
 udp://239.3.1.56:4120
 
@@ -330,19 +333,19 @@ udp://239.3.1.195:9024
 #EXTINF:-1 tvg-chno="204" tvg-id="204", 魅力时尚
 udp://239.3.1.196:9012
 
-#EXTINF:-1 tvg-chno="205" tvg-id="205", IPTV6+
+#EXTINF:-1 tvg-chno="205" tvg-id="205", IPTV6＋
 udp://239.3.1.197:9016
 
-#EXTINF:-1 tvg-chno="206" tvg-id="206", IPTV3+
+#EXTINF:-1 tvg-chno="206" tvg-id="206", IPTV3＋
 udp://239.3.1.198:9004
 
 #EXTINF:-1 tvg-chno="207" tvg-id="207", 少儿动画
 udp://239.3.1.199:9000
 
-#EXTINF:-1 tvg-chno="208" tvg-id="208", IPTV5+
+#EXTINF:-1 tvg-chno="208" tvg-id="208", IPTV5＋
 udp://239.3.1.200:9008
 
-#EXTINF:-1 tvg-chno="209" tvg-id="209", IPTV8+
+#EXTINF:-1 tvg-chno="209" tvg-id="209", IPTV8＋
 udp://239.3.1.201:8072
 
 #EXTINF:-1 tvg-chno="211" tvg-id="211", 萌宠TV
@@ -365,6 +368,9 @@ udp://239.3.1.108:8001
 
 #EXTINF:-1 tvg-chno="323" tvg-id="323", 环球旅游
 udp://239.3.1.109:8001
+
+#EXTINF:-1 tvg-chno="324" tvg-id="324", 熊猫频道
+udp://239.3.1.66:8068
 
 #EXTINF:-1 tvg-chno="341" tvg-id="341", CCTV-4欧洲高清
 udp://239.3.1.213:4220
@@ -477,8 +483,11 @@ udp://239.3.1.93:4120
 #EXTINF:-1 tvg-chno="378" tvg-id="378", 星影
 udp://239.3.1.94:4120
 
-#EXTINF:-1 tvg-chno="379" tvg-id="379", IPTV5+高清
+#EXTINF:-1 tvg-chno="379" tvg-id="379", IPTV5＋高清
 udp://239.3.1.237:4120
+
+#EXTINF:-1 tvg-chno="380" tvg-id="380", 体育赛事高清
+udp://239.3.1.157:8176
 
 #EXTINF:-1 tvg-chno="401" tvg-id="401", 爱上4K
 udp://239.3.1.236:2000
@@ -519,7 +528,7 @@ udp://239.3.1.118:8001
 #EXTINF:-1 tvg-chno="502" tvg-id="502", VBR测试-2
 udp://239.3.1.140:8001
 
-#EXTINF:-1 tvg-chno="505" tvg-id="505", 轮播-5
+#EXTINF:-1 tvg-chno="505" tvg-id="505", 轮播频道5
 udp://239.3.1.253:8001
 
 #EXTINF:-1 tvg-chno="515" tvg-id="515", VBR测试-1
@@ -530,3 +539,9 @@ udp://239.3.1.104:8001
 
 #EXTINF:-1 tvg-chno="521" tvg-id="521", 高清测试
 udp://239.3.1.103:8001
+
+#EXTINF:-1 tvg-chno="522" tvg-id="522", 总平台测试1
+udp://239.3.1.247:2000
+
+#EXTINF:-1 tvg-chno="523" tvg-id="523", 总平台测试2
+udp://239.3.1.248:2000
